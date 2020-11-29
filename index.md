@@ -3,12 +3,31 @@
 
 ### Header 3
 
-This is the equivalent of an elephant burial ground. Quiet. And Somewhere you don't go normally.
+_This is the equivalent of an elephant burial ground. Quiet. And Somewhere you don't go normally._
 
 Page created as per instructions on GitHub Guides.
 
 GitHub Guide: "Getting started with GitHub Pages" (https://guides.github.com/features/pages/) 
 _2300 29-11-20_
+
+Looking for:
+ - Anyone who has experience with analogue audio and raspberry pi's. Namely musical instruments and the handling of (potentially) raw data.
+ - Anyone who has/had a working bramble/cluster
+ - Anyone who has used Kubernetes for "teh big flops" and grinding lists etc.
+ - Anyone who has ever "Worked on" or changed a Desktop Environment
+ - Someone who has experience with Object-Oriented Programming language(s) and Runescape.
+ 
+ 
+ Can offer:
+ - HTML Basics (Therefore xxSQL, PHP, Javascript, etc)
+ - Original music for use in your personal ventures
+ - Mixing and editing audio
+ - I can get linux onto anything. Trust me.
+ - Experience in teaching, and would be happy to offer "Basics" style IT lessons and courses. Office suite up to what used to be called Microsoft Certified Partner???? Or something like that. Word and Excel were the Final Tier. Would comfortably offer Associate-level tutoring.
+ - Resumes
+ - Security Basics for the (smart) home
+ - Can quickscope
+ - One time I nested 7 virtual machines inside each other using Hyper-V
 
 
 
