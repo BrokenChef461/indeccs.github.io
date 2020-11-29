@@ -1,7 +1,7 @@
 # Indeccs
 ## Unironically here
 
-### Header 3
+### INDECCS.GITHUB.IO
 
 _This is the equivalent of an elephant burial ground. Quiet. And Somewhere you don't go normally._
 
@@ -31,17 +31,6 @@ Looking for:
 
 
 
-Editing Examples only below this point.
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
