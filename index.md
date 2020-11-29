@@ -1,19 +1,18 @@
-## Welcome to GitHub Pages
+# Indeccs
+## Unironically here
 
-You can use the [editor on GitHub](https://github.com/BrokenChef461/indeccs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
 ### Header 3
+
+This is the equivalent of an elephant burial ground. Quiet. And Somewhere you don't go normally.
+
+Page created as per instructions on GitHub Guides.
+
+GitHub Guide: "Getting started with GitHub Pages" (https://guides.github.com/features/pages/) 
+_2300 29-11-20_
+
+
+
+Editing Examples only below this point.
 
 - Bulleted
 - List
